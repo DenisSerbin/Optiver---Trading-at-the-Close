@@ -14,4 +14,4 @@ The files can be downloaded from the competition page [https://www.kaggle.com/co
 
 ## Solution
 My solution relied on feature engineering and using the Optuna package to find optimal parameters for XGBoost (see [intro-xgboost-single-3.ipynb](intro-xgboost-single-3.ipynb)). I also tried
-a LightGBM model, but somehow XGBoost performed better. The final model with best parameters can be found in (see [intro-xgboost-single-3.ipynb](intro-xgboost-single-3.ipynb))
+a LightGBM model, but somehow XGBoost performed better. The final model with best parameters can be found in the notebook [optiver-xgboost-best-score.ipynb](optiver-xgboost-best-score.ipynb).
