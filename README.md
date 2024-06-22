@@ -13,5 +13,5 @@ Optiver provided closing data (last 10 minutes) for 199 stocks traded on Nasdaq,
 The files can be downloaded from the competition page [https://www.kaggle.com/competitions/g-research-crypto-forecasting/data](https://www.kaggle.com/competitions/optiver-trading-at-the-close/data)
 
 ## Solution
-My solution relied on feature engineering and using the Optuna package to find optimal parameters for XGBoost (see [gresearch-model-2.ipynb](gresearch-model-2.ipynb)). I also tried
-a LightGBM model, but somehow XGBoost performed better.
+My solution relied on feature engineering and using the Optuna package to find optimal parameters for XGBoost (see [intro-xgboost-single-3.ipynb](intro-xgboost-single-3.ipynb)). I also tried
+a LightGBM model, but somehow XGBoost performed better. The final model with best parameters can be found in (see [intro-xgboost-single-3.ipynb](intro-xgboost-single-3.ipynb))
